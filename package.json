@@ -1,0 +1,11 @@
+{
+  "name": "sample-swagger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootprint": "^1.0.2",
+    "bootprint-openapi": "^1.1.1"
+  }
+}
